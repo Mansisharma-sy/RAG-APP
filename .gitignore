@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# App data
+uploads/
+vectorstore/
+*.db
+
+# OS
+.DS_Store
